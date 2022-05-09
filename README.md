@@ -41,9 +41,12 @@ The domain that I purchased through namecheap allows users to navigate to my per
 As of now the project is complete. I will update this website bi-annually to account for my career development. 
 
 ## Room For Improvement
- - Include more applicable photos of myself
+ - Include more applicable photos of myself to make it more personal
+ - Opportunity to insert a form that will send me a notification if someone would like to ask me a question
+ 
 ## Acknowledgements
-
+ - This project was inspired by Professor Mike Colbert at the University of Iowa
+ - The foundation of this project stems from 
 ## Contact
       
       
