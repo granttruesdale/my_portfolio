@@ -34,14 +34,14 @@ The purpose of this project is to display my online presence. I have purchased m
 ![Example Experience](./images/screenshots/screenshot3.png)
 ![Example Education](./images/screenshots/screenshot4.png)
 
-## Set Up
-
 ## Usage
+The domain that I purchased through namecheap allows users to navigate to my personal website, [granttruesdale.com](https://granttruesdale.com/). Additionally, I can monitor usage by geographic location and page visits through my google analytics account that is linked with my website. 
 
 ## Project Status
+As of now the project is complete. I will update this website bi-annually to account for my career development. 
 
 ## Room For Improvement
-
+ - Include more applicable photos of myself
 ## Acknowledgements
 
 ## Contact
