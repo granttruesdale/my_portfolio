@@ -29,6 +29,10 @@ The purpose of this project is to display my online presence. I have purchased m
  - LinkedIn, Twitter, and GitHub links
 
 ## Screenshots
+![Example Navigation Pane](./images/screenshots/screenshot1.png)
+![Example About](./images/screenshots/screenshot2.png)
+![Example Experience](./images/screenshots/screenshot3.png)
+![Example Education](./images/screenshots/screenshot4.png)
 
 ## Set Up
 
