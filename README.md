@@ -1,5 +1,5 @@
 # My Portfolio
-The purpose of this project is to display my online presence. I have purchased my own domain that can be dound here. My portfolio website consists of my interests, where I'm at in my career, and everything about me. 
+The purpose of this project is to display my online presence. I have purchased my own domain that can be found [here](https://granttruesdale.com/). My portfolio website consists of my interests, my career, and everything about me. 
 
 # Table of Contents
 
