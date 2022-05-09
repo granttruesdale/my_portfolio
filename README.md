@@ -46,7 +46,7 @@ As of now the project is complete. I will update this website bi-annually to acc
  
 ## Acknowledgements
  - This project was inspired by Professor Mike Colbert at the University of Iowa
- - The foundation of this project stems from 
+ - The foundation of this project stems from the Red Ground template which can be found [here](https://www.free-css.com/free-css-templates)
 ## Contact
 Feel free to reach out with any questions, my contact information can be found at [granttruesdale.com](https://granttruesdale.com/). 
       
