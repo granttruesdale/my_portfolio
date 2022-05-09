@@ -48,5 +48,6 @@ As of now the project is complete. I will update this website bi-annually to acc
  - This project was inspired by Professor Mike Colbert at the University of Iowa
  - The foundation of this project stems from 
 ## Contact
+Feel free to reach out with any questions, my contact information can be found at [granttruesdale.com](https://granttruesdale.com/). 
       
       
