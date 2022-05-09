@@ -13,10 +13,20 @@ The purpose of this project is to display my online presence. I have purchased m
 * [Contact](#contact)
 
 ## General Information
+- My own website with a custom domain
+- Facilitated learning by using HTML and CSS
+- Established my online presence
 
 ## Technologies Used
+ - Github Desktop
+ - Visual Studio Code
+ - Microsoft Azure
+ - Google Analytics
 
 ## Features
+ - Photos
+ - Navigation Pane
+ - LinkedIn, Twitter, and GitHub links
 
 ## Screenshots
 
