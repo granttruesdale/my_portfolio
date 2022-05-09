@@ -1,26 +1,35 @@
 # My Portfolio
 The purpose of this project is to display my online presence. I have purchased my own domain that can be found [here](https://granttruesdale.com/). My portfolio website consists of my interests, my career, and everything about me. 
 
-# Table of Contents
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-# General
+## General Information
 
-# Technologies Used
+## Technologies Used
 
-# Features
+## Features
 
-# Screenshots
+## Screenshots
 
-# Set Up
+## Set Up
 
-# Usage
+## Usage
 
-# Project Status
+## Project Status
 
-# Room For Improvement
+## Room For Improvement
 
-# Acknowledgements
+## Acknowledgements
 
-# Contact
+## Contact
       
       
